@@ -8,10 +8,11 @@ I am Rouble Malik.
 I am an IT professional of over 5+ years of experience in Network Security, Cloud Computing and Cyber Security.
 
 I am a Certified:
-1. Fortinet - Network Security Expert
-2. CCNA Security
-3. CCNP - R&S
-4. CCNA - R&S
+1. AWS Security Specialty Certified
+2. Fortinet - Network Security Expert
+3. CCNA Security
+4. CCNP - R&S
+5. CCNA - R&S
 
 I am working towards my AWS Security Specialty certification. 
 
